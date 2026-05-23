@@ -66,12 +66,19 @@ Backend runs on `http://localhost:8080`
 ## Project Structure
 
 swag-customization/
+
 ├── client/         # React frontend
+
 │   ├── src/
+
 │   │   ├── canvas/     # Three.js 3D components
+
 │   │   ├── components/ # UI components
+
 │   │   ├── config/     # State, motion config
+
 │   │   └── pages/      # Home, Customizer
+
 └── server/         # Node.js + Express backend
 
 
